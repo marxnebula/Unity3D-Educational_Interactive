@@ -1,4 +1,4 @@
-# Unity3D Game - Educational Interactive
+# Unity3D Game: Educational Interactive
 Unity3D: Eduational Interactive
 
 - Collaborated with graduate student in Biomedical Visualization to implement 3D assets in the final interactive.
